@@ -1,0 +1,17 @@
+header {
+    background-color: #2537aa;
+    display: flex;
+    justify-content: center;
+}
+
+form {
+    padding: 1em;
+    display: flex;
+    gap: 1em;
+}
+
+input {
+    border-radius: 5px;
+    width: 20vw;
+    height: 2em;
+}

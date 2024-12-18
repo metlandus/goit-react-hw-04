@@ -1,0 +1,49 @@
+.gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.imageCard {
+    cursor: pointer;
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+.loading {.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.imageCard {
+    cursor: pointer;
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+.loading {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
